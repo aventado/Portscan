@@ -1,0 +1,436 @@
+Sun, 01 May 2016 13:07:43 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.154
+Sun, 01 May 2016 13:07:44 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 8443
+Sun, 01 May 2016 13:07:46 portscan.py [line:61] DEBUG 61.139.105.154:8080 [Errno 9] Bad file descriptor
+Sun, 01 May 2016 13:07:46 portscan.py [line:61] DEBUG 61.139.105.154:443 [Errno 9] Bad file descriptor
+Thu, 05 May 2016 12:24:25 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:24:25 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 12:24:26 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 12:24:28 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:24:28 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 12:27:00 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:27:00 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 12:27:01 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 12:27:03 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:27:03 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 12:28:17 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:28:18 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 12:28:18 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 12:28:20 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:28:21 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 12:28:39 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:28:40 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 12:28:40 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 12:28:43 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:28:43 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 12:30:26 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:30:26 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 12:30:27 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 12:30:29 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:30:29 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 12:39:42 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:39:43 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 12:39:43 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 12:39:46 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:39:46 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 12:40:16 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:40:16 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 12:40:17 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 12:40:19 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:40:19 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 12:41:01 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:41:01 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 12:41:02 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 12:41:04 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:41:04 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 12:43:55 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:43:58 portscan.py [line:120] DEBUG ('Connection aborted.', BadStatusLine('\xff\xfd\x01\xff\xfd\x1f\xff\xfe!\xff\xfb\x01\xff\xfb\x03GET / HTTP/1.1\r\n',))
+Thu, 05 May 2016 12:44:11 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:44:11 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 12:44:12 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 12:44:14 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:44:14 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 12:46:53 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:46:56 portscan.py [line:120] DEBUG ('Connection aborted.', BadStatusLine('\xff\xfd\x01\xff\xfd\x1f\xff\xfe!\xff\xfb\x01\xff\xfb\x03GET / HTTP/1.1\r\n',))
+Thu, 05 May 2016 12:47:08 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:47:08 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 12:47:09 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 12:47:11 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:47:12 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 12:48:16 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:48:19 portscan.py [line:120] DEBUG ('Connection aborted.', BadStatusLine('\xff\xfd\x01\xff\xfd\x1f\xff\xfe!\xff\xfb\x01\xff\xfb\x03GET / HTTP/1.1\r\n',))
+Thu, 05 May 2016 12:48:32 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:48:32 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 12:48:33 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 12:48:35 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:48:35 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 12:54:49 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:54:52 portscan.py [line:122] DEBUG ('Connection aborted.', BadStatusLine('\xff\xfd\x01\xff\xfd\x1f\xff\xfe!\xff\xfb\x01\xff\xfb\x03GET / HTTP/1.1\r\n',))
+Thu, 05 May 2016 12:55:05 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:55:05 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 12:55:06 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 12:55:08 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:55:08 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 12:56:08 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:56:11 portscan.py [line:122] DEBUG ('Connection aborted.', BadStatusLine('\xff\xfd\x01\xff\xfd\x1f\xff\xfe!\xff\xfb\x01\xff\xfb\x03GET / HTTP/1.1\r\n',))
+Thu, 05 May 2016 12:56:24 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:56:24 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 12:56:25 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 12:56:27 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 12:56:27 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 13:52:32 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 13:52:35 portscan.py [line:131] DEBUG ('Connection aborted.', BadStatusLine('\xff\xfd\x01\xff\xfd\x1f\xff\xfe!\xff\xfb\x01\xff\xfb\x03GET / HTTP/1.1\r\n',))
+Thu, 05 May 2016 14:17:13 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 14:17:14 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 14:17:15 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 14:17:20 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 14:17:20 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 14:18:26 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 14:18:26 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 14:18:27 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 14:18:32 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 14:18:32 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 14:27:55 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 14:27:55 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 14:27:56 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 14:28:01 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 14:28:01 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 14:35:27 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 14:35:27 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 14:35:28 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 14:35:33 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 14:35:33 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 14:38:13 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 14:38:13 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 14:38:14 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 14:38:17 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 14:38:17 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 15:03:55 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 15:03:55 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 15:03:56 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 15:03:59 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 15:03:59 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 15:04:17 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 15:04:17 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 15:04:18 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 15:04:21 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 15:04:21 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 15:33:12 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 15:33:13 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 15:33:13 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 15:33:17 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 15:33:17 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 15:33:39 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 15:33:40 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 15:33:40 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 15:33:43 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 15:33:44 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 15:34:23 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 15:34:24 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 15:34:24 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 15:34:28 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 15:34:28 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 15:51:45 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 15:51:45 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 15:51:46 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 15:51:49 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 15:51:49 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 15:52:18 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 15:52:19 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 15:52:19 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 15:52:23 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 15:52:23 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 15:57:38 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 15:57:38 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 15:57:39 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 15:57:42 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 15:57:42 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 15:58:11 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 15:58:11 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 15:58:12 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 15:58:15 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 15:58:15 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 15:58:55 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 15:58:55 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 15:58:56 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 15:58:59 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 15:58:59 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 15:59:14 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 15:59:14 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 15:59:15 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 15:59:18 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 15:59:18 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 16:00:03 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 16:00:03 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 16:00:04 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 16:00:07 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 16:00:07 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 16:00:28 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 16:00:28 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 16:00:29 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 16:00:32 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 16:00:32 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 16:48:09 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 16:48:09 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 16:48:10 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 16:48:13 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 16:48:13 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 16:54:56 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 16:54:56 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 16:54:57 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 16:55:00 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 16:55:00 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 16:55:27 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 16:55:27 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 16:55:28 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 16:55:31 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 16:55:31 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 20:02:17 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 20:02:17 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 20:02:18 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 20:02:21 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 20:02:21 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 20:34:09 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.105
+Thu, 05 May 2016 20:34:09 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 400 None
+Thu, 05 May 2016 20:34:12 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 20:34:12 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 20:34:13 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 20:34:16 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.105
+Thu, 05 May 2016 20:34:16 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 400 362
+Thu, 05 May 2016 20:34:16 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 20:34:16 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 20:36:52 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.131
+Thu, 05 May 2016 20:36:52 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 612
+Thu, 05 May 2016 20:36:54 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.132
+Thu, 05 May 2016 20:36:55 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 403 1157
+Thu, 05 May 2016 20:36:57 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.130
+Thu, 05 May 2016 20:36:57 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 401 1181
+Thu, 05 May 2016 20:37:02 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.133
+Thu, 05 May 2016 20:37:02 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 612
+Thu, 05 May 2016 20:37:05 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.134
+Thu, 05 May 2016 20:37:05 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 608
+Thu, 05 May 2016 20:37:27 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.136
+Thu, 05 May 2016 20:37:27 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 None
+Thu, 05 May 2016 20:37:30 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.136
+Thu, 05 May 2016 20:37:31 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 4396
+Thu, 05 May 2016 20:37:31 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.135
+Thu, 05 May 2016 20:37:31 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 400 334
+Thu, 05 May 2016 20:37:38 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.138
+Thu, 05 May 2016 20:37:38 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 152
+Thu, 05 May 2016 20:37:38 connectionpool.py [line:383] DEBUG "GET /default2.aspx HTTP/1.1" 200 10191
+Thu, 05 May 2016 20:38:02 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.142
+Thu, 05 May 2016 20:38:02 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 401 2478
+Thu, 05 May 2016 20:38:05 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.141
+Thu, 05 May 2016 20:38:05 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 9995
+Thu, 05 May 2016 20:38:08 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.141
+Thu, 05 May 2016 20:38:08 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 2468
+Thu, 05 May 2016 20:38:12 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.144
+Thu, 05 May 2016 20:38:12 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 594
+Thu, 05 May 2016 20:38:30 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.146
+Thu, 05 May 2016 20:38:30 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 72597
+Thu, 05 May 2016 20:38:34 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.145
+Thu, 05 May 2016 20:38:34 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 0
+Thu, 05 May 2016 20:38:35 connectionpool.py [line:383] DEBUG "GET /markbook/GetIndex.jsp HTTP/1.1" 500 3695
+Thu, 05 May 2016 20:38:38 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.145
+Thu, 05 May 2016 20:38:38 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 404 None
+Thu, 05 May 2016 20:38:51 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.148
+Thu, 05 May 2016 20:38:51 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 246
+Thu, 05 May 2016 20:39:21 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.154
+Thu, 05 May 2016 20:39:21 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 8443
+Thu, 05 May 2016 20:39:41 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.155
+Thu, 05 May 2016 20:39:41 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 403 218
+Thu, 05 May 2016 20:39:41 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.156
+Thu, 05 May 2016 20:39:41 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 0
+Thu, 05 May 2016 20:39:42 connectionpool.py [line:383] DEBUG "GET /business/login.jsp HTTP/1.1" 200 None
+Thu, 05 May 2016 20:40:12 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.162
+Thu, 05 May 2016 20:40:12 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 400 39
+Thu, 05 May 2016 20:40:21 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.164
+Thu, 05 May 2016 20:40:21 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 400 39
+Thu, 05 May 2016 20:40:22 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.165
+Thu, 05 May 2016 20:40:22 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 209
+Thu, 05 May 2016 20:41:11 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.174
+Thu, 05 May 2016 20:41:11 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 25803
+Thu, 05 May 2016 20:41:15 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.173
+Thu, 05 May 2016 20:41:16 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 None
+Thu, 05 May 2016 20:41:30 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.175
+Thu, 05 May 2016 20:41:30 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 404 315
+Thu, 05 May 2016 20:41:39 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.178
+Thu, 05 May 2016 20:41:39 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 133422
+Thu, 05 May 2016 20:41:42 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.179
+Thu, 05 May 2016 20:41:42 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 7633
+Thu, 05 May 2016 20:41:43 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.178
+Thu, 05 May 2016 20:41:43 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 130
+Thu, 05 May 2016 20:41:43 connectionpool.py [line:383] DEBUG "GET /Login.aspx HTTP/1.1" 200 7845
+Thu, 05 May 2016 20:42:07 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.182
+Thu, 05 May 2016 20:42:07 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 None
+Thu, 05 May 2016 20:42:47 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.188
+Thu, 05 May 2016 20:42:47 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 608
+Thu, 05 May 2016 20:42:50 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.188
+Thu, 05 May 2016 20:42:51 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 None
+Thu, 05 May 2016 20:45:25 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.179
+Thu, 05 May 2016 20:45:25 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 7633
+Thu, 05 May 2016 20:45:55 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.179
+Thu, 05 May 2016 20:45:55 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 7633
+Thu, 05 May 2016 20:47:48 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.179
+Thu, 05 May 2016 20:47:48 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 7633
+Thu, 05 May 2016 20:48:35 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.179
+Thu, 05 May 2016 20:48:35 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 7633
+Thu, 05 May 2016 20:49:02 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.179
+Thu, 05 May 2016 20:49:02 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 7633
+Thu, 05 May 2016 20:51:49 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.179
+Thu, 05 May 2016 20:51:49 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 7633
+Thu, 05 May 2016 20:56:23 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.105
+Thu, 05 May 2016 20:56:23 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 400 None
+Thu, 05 May 2016 20:56:34 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.105
+Thu, 05 May 2016 20:56:34 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 400 362
+Thu, 05 May 2016 20:57:09 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 20:57:09 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 20:57:10 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 20:57:15 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 20:57:15 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 21:00:44 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.131
+Thu, 05 May 2016 21:00:45 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 612
+Thu, 05 May 2016 21:00:49 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.132
+Thu, 05 May 2016 21:00:50 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 403 1157
+Thu, 05 May 2016 21:01:03 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.133
+Thu, 05 May 2016 21:01:04 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 612
+Thu, 05 May 2016 21:01:09 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.134
+Thu, 05 May 2016 21:01:09 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 608
+Thu, 05 May 2016 21:01:19 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.135
+Thu, 05 May 2016 21:01:19 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 400 334
+Thu, 05 May 2016 21:01:30 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.136
+Thu, 05 May 2016 21:01:31 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 None
+Thu, 05 May 2016 21:01:36 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.136
+Thu, 05 May 2016 21:01:36 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 4396
+Thu, 05 May 2016 21:01:55 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.138
+Thu, 05 May 2016 21:01:55 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 152
+Thu, 05 May 2016 21:01:55 connectionpool.py [line:383] DEBUG "GET /default2.aspx HTTP/1.1" 200 10191
+Thu, 05 May 2016 21:02:17 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.141
+Thu, 05 May 2016 21:02:18 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 9995
+Thu, 05 May 2016 21:02:22 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.142
+Thu, 05 May 2016 21:02:22 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 401 2478
+Thu, 05 May 2016 21:02:23 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.141
+Thu, 05 May 2016 21:02:23 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 2468
+Thu, 05 May 2016 21:02:46 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.144
+Thu, 05 May 2016 21:02:46 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 594
+Thu, 05 May 2016 21:02:49 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.146
+Thu, 05 May 2016 21:02:50 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 72597
+Thu, 05 May 2016 21:03:00 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.145
+Thu, 05 May 2016 21:03:00 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 0
+Thu, 05 May 2016 21:03:00 connectionpool.py [line:383] DEBUG "GET /markbook/GetIndex.jsp HTTP/1.1" 500 3695
+Thu, 05 May 2016 21:03:05 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.145
+Thu, 05 May 2016 21:03:05 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 404 None
+Thu, 05 May 2016 21:03:28 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.148
+Thu, 05 May 2016 21:03:28 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 246
+Thu, 05 May 2016 21:04:18 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.154
+Thu, 05 May 2016 21:04:18 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 8443
+Thu, 05 May 2016 21:04:34 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.155
+Thu, 05 May 2016 21:04:35 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 403 218
+Thu, 05 May 2016 21:04:40 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.156
+Thu, 05 May 2016 21:04:40 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 0
+Thu, 05 May 2016 21:04:41 connectionpool.py [line:383] DEBUG "GET /business/login.jsp HTTP/1.1" 200 None
+Thu, 05 May 2016 21:05:18 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.164
+Thu, 05 May 2016 21:05:18 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 400 39
+Thu, 05 May 2016 21:05:20 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.162
+Thu, 05 May 2016 21:05:20 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 400 39
+Thu, 05 May 2016 21:05:27 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.165
+Thu, 05 May 2016 21:05:27 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 209
+Thu, 05 May 2016 21:06:28 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.174
+Thu, 05 May 2016 21:06:28 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 25803
+Thu, 05 May 2016 21:06:39 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.173
+Thu, 05 May 2016 21:06:40 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 None
+Thu, 05 May 2016 21:06:55 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.175
+Thu, 05 May 2016 21:06:55 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 404 315
+Thu, 05 May 2016 21:06:57 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.178
+Thu, 05 May 2016 21:06:57 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 133422
+Thu, 05 May 2016 21:07:03 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.178
+Thu, 05 May 2016 21:07:03 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 130
+Thu, 05 May 2016 21:07:03 connectionpool.py [line:383] DEBUG "GET /Login.aspx HTTP/1.1" 200 7845
+Thu, 05 May 2016 21:07:12 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.179
+Thu, 05 May 2016 21:07:12 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 7633
+Thu, 05 May 2016 21:07:31 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.182
+Thu, 05 May 2016 21:07:31 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 None
+Thu, 05 May 2016 21:08:41 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.188
+Thu, 05 May 2016 21:08:41 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 608
+Thu, 05 May 2016 21:08:46 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.188
+Thu, 05 May 2016 21:08:47 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 None
+Thu, 05 May 2016 21:15:28 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.105
+Thu, 05 May 2016 21:15:28 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 400 None
+Thu, 05 May 2016 21:15:38 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.105
+Thu, 05 May 2016 21:15:38 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 400 362
+Thu, 05 May 2016 21:17:56 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.105
+Thu, 05 May 2016 21:17:56 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 400 None
+Thu, 05 May 2016 21:18:06 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.105
+Thu, 05 May 2016 21:18:06 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 400 362
+Thu, 05 May 2016 21:18:38 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 21:18:38 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 None
+Thu, 05 May 2016 21:18:39 connectionpool.py [line:383] DEBUG "GET /login.html HTTP/1.1" 200 None
+Thu, 05 May 2016 21:18:44 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.107
+Thu, 05 May 2016 21:18:44 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 338
+Thu, 05 May 2016 21:22:17 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.131
+Thu, 05 May 2016 21:22:17 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 612
+Thu, 05 May 2016 21:22:20 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.132
+Thu, 05 May 2016 21:22:20 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 403 1157
+Thu, 05 May 2016 21:22:26 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.130
+Thu, 05 May 2016 21:22:27 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 401 1181
+Thu, 05 May 2016 21:22:33 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.133
+Thu, 05 May 2016 21:22:33 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 612
+Thu, 05 May 2016 21:22:38 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.134
+Thu, 05 May 2016 21:22:38 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 608
+Thu, 05 May 2016 21:22:48 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.135
+Thu, 05 May 2016 21:22:48 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 400 334
+Thu, 05 May 2016 21:23:03 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.136
+Thu, 05 May 2016 21:23:03 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 None
+Thu, 05 May 2016 21:23:12 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.136
+Thu, 05 May 2016 21:23:12 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 4396
+Thu, 05 May 2016 21:23:27 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.138
+Thu, 05 May 2016 21:23:27 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 152
+Thu, 05 May 2016 21:23:27 connectionpool.py [line:383] DEBUG "GET /default2.aspx HTTP/1.1" 200 10191
+Thu, 05 May 2016 21:23:43 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.141
+Thu, 05 May 2016 21:23:44 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 9995
+Thu, 05 May 2016 21:23:49 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.141
+Thu, 05 May 2016 21:23:49 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 2468
+Thu, 05 May 2016 21:24:01 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.142
+Thu, 05 May 2016 21:24:01 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 401 2478
+Thu, 05 May 2016 21:24:18 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.144
+Thu, 05 May 2016 21:24:18 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 594
+Thu, 05 May 2016 21:24:18 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.146
+Thu, 05 May 2016 21:24:19 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 72597
+Thu, 05 May 2016 21:24:29 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.145
+Thu, 05 May 2016 21:24:29 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 0
+Thu, 05 May 2016 21:24:29 connectionpool.py [line:383] DEBUG "GET /markbook/GetIndex.jsp HTTP/1.1" 500 3695
+Thu, 05 May 2016 21:24:34 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.145
+Thu, 05 May 2016 21:24:34 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 404 None
+Thu, 05 May 2016 21:25:07 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.148
+Thu, 05 May 2016 21:25:07 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 246
+Thu, 05 May 2016 21:25:57 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.154
+Thu, 05 May 2016 21:26:00 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 8443
+Thu, 05 May 2016 21:26:01 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.155
+Thu, 05 May 2016 21:26:01 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 403 218
+Thu, 05 May 2016 21:26:10 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.156
+Thu, 05 May 2016 21:26:10 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 0
+Thu, 05 May 2016 21:26:10 connectionpool.py [line:383] DEBUG "GET /business/login.jsp HTTP/1.1" 200 None
+Thu, 05 May 2016 21:26:48 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.164
+Thu, 05 May 2016 21:26:49 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 400 39
+Thu, 05 May 2016 21:26:50 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.162
+Thu, 05 May 2016 21:26:50 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 400 39
+Thu, 05 May 2016 21:26:56 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.165
+Thu, 05 May 2016 21:26:56 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 209
+Thu, 05 May 2016 21:28:02 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.174
+Thu, 05 May 2016 21:28:02 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 25803
+Thu, 05 May 2016 21:28:13 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.173
+Thu, 05 May 2016 21:28:13 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 None
+Thu, 05 May 2016 21:28:30 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.178
+Thu, 05 May 2016 21:28:30 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 133422
+Thu, 05 May 2016 21:28:34 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.175
+Thu, 05 May 2016 21:28:34 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 404 315
+Thu, 05 May 2016 21:28:36 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.178
+Thu, 05 May 2016 21:28:36 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 302 130
+Thu, 05 May 2016 21:28:36 connectionpool.py [line:383] DEBUG "GET /Login.aspx HTTP/1.1" 200 7845
+Thu, 05 May 2016 21:28:48 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.179
+Thu, 05 May 2016 21:28:48 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 7633
+Thu, 05 May 2016 21:29:10 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.182
+Thu, 05 May 2016 21:29:10 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 None
+Thu, 05 May 2016 21:30:14 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.188
+Thu, 05 May 2016 21:30:14 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 608
+Thu, 05 May 2016 21:30:19 connectionpool.py [line:203] INFO Starting new HTTP connection (1): 61.139.105.188
+Thu, 05 May 2016 21:30:19 connectionpool.py [line:383] DEBUG "GET / HTTP/1.1" 200 None
